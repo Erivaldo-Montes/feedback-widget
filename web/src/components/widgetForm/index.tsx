@@ -60,8 +60,6 @@ export function WidgetForm() {
     setFeedbackType(null)
   }
 
-
-
   return (
     // mostra o elemento e torna responsivo
     // md: é a tamanho da tela
