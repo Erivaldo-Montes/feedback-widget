@@ -33,16 +33,19 @@ de dados de forma mais produtiva.
 # Começando
 
 instale as depedências:
- 
---- npm install
+```sh
+npm install
+```
 
 Para conseguir ultilizar o projeto deve-se executar o servidor na pasta ./server com
-
---- npm run dev
+```sh
+npm run dev
+```
 
 E executar o front-end 
-
---- npm run dev
+```sh
+npm run dev
+```
 
 
 ao entrar na endereço web gerado pelo vite verá um icone roxo no canto inferior
