@@ -5,8 +5,9 @@ envio de email ao proprietário do site junto com tipo do feedback e um captura
 da tela no momento do envio. O repositótio contém o front-end e o back-end.
 Pode ser um bug , idea ou outro.
 
-front-end foi hospedado na - [vercel](https://vercel.com/)
-back-end foi hospedado no - [railway](https://railway.app/)
+front-end foi hospedado na - [vercel](https://vercel.com/).
+
+back-end foi hospedado no - [railway](https://railway.app/).
 
 para acessar o projeto em produção - [feedback-widget](https://feedback-widget-eight-tau.vercel.app/)
 
@@ -33,19 +34,17 @@ de dados de forma mais produtiva.
 # Começando
 
 instale as depedências:
----
- npm install
----
-
+```sh
+npm install
+```
 Para conseguir ultilizar o projeto deve-se executar o servidor na pasta ./server com
----
- npm run dev
----
-
-E executar o front-end 
---- 
+```sh
 npm run dev
----
+```
+E executar o front-end 
+```sh
+npm run dev
+```
 
 ao entrar na endereço web gerado pelo vite verá um icone roxo no canto inferior
 direito da tela.
