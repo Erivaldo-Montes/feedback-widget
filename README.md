@@ -1,9 +1,9 @@
-<p align="center" style="margin-bottom: 200px;" >
+<div style="margin-bottom: 200px;" >
   <a href="https://feedback-widget-eight-tau.vercel.app/" >
     <img src="./web/src/assets/feedback-screenshot-removebg-preview.png"/>
   </a>
   <h1 align="center" style="text-align: center">Feedback Widget</h1>
-</p>
+</div>
 
 <div style="display: flex; gap: 50px; margin-bottom: 100px;">
   <img style="height: 50px; width: auto;" src="./web/src/assets/pngwing.com(1).png" alt="node logo"
