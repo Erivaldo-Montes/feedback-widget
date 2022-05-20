@@ -2,7 +2,7 @@
   <a href="https://feedback-widget-eight-tau.vercel.app/" >
     <img src="./web/src/assets/feedback-screenshot-removebg-preview.png"/>
   </a>
-  <h1 style="text-align: center">Feedback Widget</h1>
+  <h1 align="center" style="text-align: center">Feedback Widget</h1>
 </p>
 
 <div style="display: flex; gap: 50px; margin-bottom: 100px;">
