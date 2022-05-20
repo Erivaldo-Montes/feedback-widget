@@ -33,17 +33,17 @@ de dados de forma mais produtiva.
 # Começando
 
 instale as depedências:
----
+---sh
  npm install
 ---
 
 Para conseguir ultilizar o projeto deve-se executar o servidor na pasta ./server com
----
+---sh
  npm run dev
 ---
 
 E executar o front-end 
---- 
+---sh
 npm run dev
 ---
 
