@@ -87,13 +87,7 @@ export function WidgetForm() {
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com S2 pela{" "}
-        <a
-          className="underline underline-offset-2"
-          href="https://www.rocketseat.com"
-        >
-          rocketseat
-        </a>
+        Feito com S2 por Erivaldo
       </footer>
     </div>
   );
