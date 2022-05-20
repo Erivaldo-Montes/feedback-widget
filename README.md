@@ -1,4 +1,4 @@
-<div style="margin-bottom: 200px;" >
+<div style="margin-bottom:200px; text-align:center" >
   <a href="https://feedback-widget-eight-tau.vercel.app/" >
     <img src="./web/src/assets/feedback-screenshot-removebg-preview.png"/>
   </a>
