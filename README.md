@@ -37,14 +37,26 @@ instale as depedências:
 ```sh
 npm install
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d3c9408a0bbedc1ec469761235f0649938ac395
 Para conseguir ultilizar o projeto deve-se executar o servidor na pasta ./server com
 ```sh
 npm run dev
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d3c9408a0bbedc1ec469761235f0649938ac395
 E executar o front-end 
 ```sh
 npm run dev
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d3c9408a0bbedc1ec469761235f0649938ac395
 
 ao entrar na endereço web gerado pelo vite verá um icone roxo no canto inferior
 direito da tela.

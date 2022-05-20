@@ -11,3 +11,11 @@ tailwindcss é um ultilittário
 quando um elemento não faz muito sentido em um contexto pode-se isola em um componente
 
 é possivel copiar um svg diretamente do figma
+
+# proximos passos
+tema light 
+tema dark
+usar algum serviços de email
+melhorar html css do email
+criar um deshboard de email firebase || oath
+validaçaõ de campos e erro.
