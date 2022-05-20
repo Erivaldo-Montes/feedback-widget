@@ -5,8 +5,8 @@ envio de email ao proprietário do site junto com tipo do feedback e um captura
 da tela no momento do envio. O repositótio contém o front-end e o back-end.
 Pode ser um bug , idea ou outro.
 
-front-end foi hospedado na - [vercel](https://vercel.com/)
-back-end foi hospedado no - [railway](https://railway.app/)
+front-end foi hospedado na - [vercel](https://vercel.com/).
+back-end foi hospedado no - [railway](https://railway.app/).
 
 para acessar o projeto em produção - [feedback-widget](https://feedback-widget-eight-tau.vercel.app/)
 
