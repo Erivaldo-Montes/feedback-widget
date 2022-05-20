@@ -1,3 +1,19 @@
+<p style="text-align: center">
+  <a href="https://feedback-widget-eight-tau.vercel.app/" >
+    <img src="./web/src/assets/feedback-screenshot-removebg-preview.png"/>
+  </a>
+  <h1 style="text-align: center">Feedback Widget</h1>
+</p>
+
+<div style="display: flex; gap: 50px; margin-bottom: 100px;">
+  <img style="height: 50px; width: auto;" src="./web/src/assets/pngwing.com(1).png" alt="node logo"
+  title="node">
+  <img style="height: 50px; width: auto;" src="./web/src/assets/pngwing.com.png" alt="react logo" title="react">
+  <img  style="height: 50px; width: auto;"  src="./web/src/assets/pngwing.com(2).png" alt="vite logo" title="vite">
+  <img  style="height: 50px; width: auto;"  src="./web/src/assets/pngwing.com(3).png" alt="typescript logo" title="typescript">
+  <img style="height: 50px; width: auto;"  src="./web/src/assets/prisma-4.svg" alt="prisma logo" title="prisma ORM">
+</div>
+
 # Sobre o projeto
 
 Este projeto tem como finalidade possibilitar o envio de feedbacks por meio de 
